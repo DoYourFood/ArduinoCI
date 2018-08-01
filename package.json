@@ -1,0 +1,13 @@
+{
+  "name": "ArduCi",
+  "version": "1.0.0",
+  "description": "Continuous Integration for Arduino",
+  "main": "src/bin/www",
+  "author": "Trevis Gulby",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express-generator": "^4.16.0",
+    "pm2": "^3.0.3"
+  }
+}
