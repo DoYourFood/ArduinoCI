@@ -1,2 +1,4 @@
 #Nodejs dependencies
 node_modules
+#IDE conf files
+.vscode
